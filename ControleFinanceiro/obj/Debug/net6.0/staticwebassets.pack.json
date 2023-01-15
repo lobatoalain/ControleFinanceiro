@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
+      "Id": "C:\\Estudos\\net-razor\\ControleFinanceiro\\ControleFinanceiro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-darkly.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-darkly.css"
+    },
+    {
       "Id": "C:\\Estudos\\net-razor\\ControleFinanceiro\\ControleFinanceiro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
